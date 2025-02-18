@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello!&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20A%20Lim&descAlign=80&descAlignY=44)
 <!--
 **alim0o0/alim0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
